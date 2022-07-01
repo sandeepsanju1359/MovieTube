@@ -1,0 +1,10 @@
+1. Landing Page
+        Navbar
+            image 
+            button
+
+        Boddy
+            tite
+            subtitle
+            description
+            input field and button

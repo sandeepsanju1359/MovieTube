@@ -1,0 +1,21 @@
+.navbar_container{
+    background-color: #0076CE;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding : 0 5%;
+    border-bottom: 1px solid #ADD8E6;
+}
+
+.navbar_logo{
+    width: 50px;
+}
+
+.navbar_button{
+    background-color: #7C0A02;
+    color: white;
+    padding: 10px 16px;
+    font-weight: 600;
+    border-radius: 5px;
+    border: none;
+}
